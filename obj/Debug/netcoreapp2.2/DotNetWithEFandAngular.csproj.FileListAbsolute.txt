@@ -1,0 +1,11 @@
+C:\Users\myang\source\playground\DotNetWithEFandAngular\bin\Debug\netcoreapp2.2\DotNetWithEFandAngular.deps.json
+C:\Users\myang\source\playground\DotNetWithEFandAngular\bin\Debug\netcoreapp2.2\DotNetWithEFandAngular.runtimeconfig.json
+C:\Users\myang\source\playground\DotNetWithEFandAngular\bin\Debug\netcoreapp2.2\DotNetWithEFandAngular.runtimeconfig.dev.json
+C:\Users\myang\source\playground\DotNetWithEFandAngular\bin\Debug\netcoreapp2.2\DotNetWithEFandAngular.dll
+C:\Users\myang\source\playground\DotNetWithEFandAngular\bin\Debug\netcoreapp2.2\DotNetWithEFandAngular.pdb
+C:\Users\myang\source\playground\DotNetWithEFandAngular\obj\Debug\netcoreapp2.2\DotNetWithEFandAngular.csprojAssemblyReference.cache
+C:\Users\myang\source\playground\DotNetWithEFandAngular\obj\Debug\netcoreapp2.2\DotNetWithEFandAngular.csproj.CoreCompileInputs.cache
+C:\Users\myang\source\playground\DotNetWithEFandAngular\obj\Debug\netcoreapp2.2\DotNetWithEFandAngular.AssemblyInfoInputs.cache
+C:\Users\myang\source\playground\DotNetWithEFandAngular\obj\Debug\netcoreapp2.2\DotNetWithEFandAngular.AssemblyInfo.cs
+C:\Users\myang\source\playground\DotNetWithEFandAngular\obj\Debug\netcoreapp2.2\DotNetWithEFandAngular.dll
+C:\Users\myang\source\playground\DotNetWithEFandAngular\obj\Debug\netcoreapp2.2\DotNetWithEFandAngular.pdb
